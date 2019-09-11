@@ -133,3 +133,32 @@ a {
     color: gray;
 
 }
+
+.name {
+    float: left;
+    color: gray;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+/*push boxes to the right*/
+
+}
+
+.email {
+    float: left;
+    color: gray;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    /*push boxes to the right*/
+}
+
+.message {
+    float: left;
+    color: gray;
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    /*make the box bigger */
+}
+
+.submit {
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color: white;
+    background:  #4aaaa5;
+    /*make a button*/
+}
