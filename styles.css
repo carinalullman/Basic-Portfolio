@@ -10,7 +10,8 @@
 }
 
 html {
-    background-color: rgb(243, 240, 236);
+    /*background-color: rgb(243, 240, 236);*/
+    background-image: url(light-veneer.png)
 }
 body {
     
@@ -134,31 +135,23 @@ a {
 
 }
 
-.name {
-    float: left;
+input {
+    width: 960px;
     color: gray;
     font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
 /*push boxes to the right*/
 
 }
 
-.email {
-    float: left;
-    color: gray;
-    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
-    /*push boxes to the right*/
-}
 
-.message {
-    float: left;
-    color: gray;
-    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
-    /*make the box bigger */
-}
-
-.submit {
+button {
     font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
     color: white;
     background:  #4aaaa5;
+    
     /*make a button*/
+}
+#message {
+    height: 100px;
+
 }
