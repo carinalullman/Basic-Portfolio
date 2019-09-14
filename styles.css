@@ -3,10 +3,7 @@
  margin: 0;
  padding: 0;
  border-color: gray;
- border: 10px;
-
-    
-    
+ border: 10px; 
 }
 
 html {
@@ -14,13 +11,10 @@ html {
     background-image: url(light-veneer.png)
 }
 body {
-    
-    margin: 0 auto;
+     margin: 0 auto;
     padding: 0;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     display: block;
-
-   
 }
 .myname {
     background: #4aaaa5;
@@ -29,19 +23,13 @@ body {
     padding: 20px;
     font-size: 2em;
     margin-left: -20px;
-    
-    
-
-
 }
 
 .header {
     margin: auto;
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     /*padding: 20px;*/
-    width: 960px;
-    
-        
+    width: 960px;       
 }
 
 span {
@@ -54,12 +42,7 @@ span {
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     padding: 20px;
     padding-left: 20px;
-    border-bottom: solid lightgray;
-    
-    
-    
-
-
+    border-bottom: solid lightgray;   
 }
 
 .sidebar {
@@ -67,9 +50,7 @@ span {
     font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     color: gray;
     margin-right: -20px;
-    font-size: 1.5em;
-    
-    
+    font-size: 1.5em; 
 }
 
 .content {
@@ -80,9 +61,7 @@ span {
     width: 960px;
     margin-top: 30px;
     margin-bottom: 100px;
-    border: 2px solid lightgray;
-        
-    
+    border: 2px solid lightgray; 
 }
 
 .aboutme {
@@ -91,15 +70,13 @@ span {
     font-size: 2em;
     background: white;
     padding: 20px;
-    margin-top: 10px;
-    
+    margin-top: 10px;  
 }
 
 .bio-image {
     margin-top: 25px;
     margin-right: 25px;
     float: left;
-
 }
 
 
@@ -111,11 +88,9 @@ span {
     padding-left: 15px;
     line-height: 2em;
     margin-bottom: 28px;
-
 }
 
 .footer {
-    
     background-color: #666666;
     height: 60px;
     width: 100%;
@@ -125,22 +100,16 @@ span {
     color: white;
     text-align: center;
     padding-top: 10px;
-    
-
-
 }
 a {
     align: center;
     color: gray;
-
 }
 
 input {
     width: 960px;
     color: gray;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-/*push boxes to the right*/
-
 }
 
 
@@ -151,12 +120,9 @@ button {
     padding: 5px;
     padding-left: 15px;
     padding-right: 15px;
-    
-    /*make a button*/
 }
 #message {
     height: 100px;
-
 }
 
 hr {
@@ -164,7 +130,6 @@ hr {
     border: none;
     color:lightgray;
     background-color:lightgray;   
-
 }
 
 .portfoliothings {
@@ -174,7 +139,4 @@ hr {
     margin-bottom: 100px;
     margin-top: 50px;
     text-align: center;
-
-
-
 }
